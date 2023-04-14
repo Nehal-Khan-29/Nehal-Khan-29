@@ -1,5 +1,5 @@
 # ME:
-👋 Hi, I’m **Nehal Khan**, and my user name in "Github" is **@Nehal-Khan-29**, I also have another nickname which is used on multiple platforms like "Leetcode" is **NK_SHOWDOWN**.
+👋 Hi, I’m **Nehal Khan**, and **@Nehal-Khan-29** is my user name in "Github", I also have another nickname which is used on multiple platforms like "Leetcode" is **NK_SHOWDOWN**.
 # Languages that I know:
 - Python
 - c
