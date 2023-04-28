@@ -11,6 +11,7 @@
 👀 I’m interested in Open source, Competitive programming.
 # Contact through:
 - Discord ID : NK_SHOWDOWN#2849
+- linkedin : Nehal Khan
 
 
 
