@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nehal Khan</h1>
 <h3 align="center">I'm a passionate code enthusiast with a keen interest in open-source development and a strong commitment to full-stack programming. Currently serving as a mentor at Amrita Cognizance Club, I'm always excited to explore new technologies and collaborate on projects that make a positive impact."</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nehal-Khan-29?tab=repositories](https://github.com/Nehal-Khan-29?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub Repo](https://github.com/Nehal-Khan-29?tab=repositories)
 
 - 📫 How to reach me **nehalmicro29@gmail.com**
 
