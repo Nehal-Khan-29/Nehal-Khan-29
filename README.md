@@ -3,9 +3,9 @@
 
 - 👨‍💻 All of my projects are available at [GitHub Repo](https://github.com/Nehal-Khan-29?tab=repositories)
 
-- 📫 How to reach me **nehalmicro29@gmail.com**
+- 📫 How to reach me: **nehalmicro29@gmail.com**
 
-- ⚡ Fun fact **I am an anime idiot**
+- ⚡ Fun fact: **I am an anime idiot**
 
 <h3 align="left">Platforms which im good at :</h3>
 <p align="left"> 
