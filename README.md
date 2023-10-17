@@ -1,4 +1,4 @@
-[![MY_BEGINNING](https://github.com/Nehal-Khan-29/MY_BEGINNING/assets/128951002/f013e74a-d25d-46e3-8a29-8afa4bfe5c3d)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)<hr>
+[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/MY_BEGINNING/assets/128951002/f013e74a-d25d-46e3-8a29-8afa4bfe5c3d)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)<hr>
 
 ## ABOUT ME :
 Hello!, My name is `Nehal Khan` and I also go by `NK_SHOWDOWN`.
@@ -84,8 +84,8 @@ I rest only when my code works <hr>
 
 ## GITHUB STATS :
 
-![](https://github-profile-trophy.vercel.app/?username=nehal-khan-29&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Nehal-Khan-29&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehal-khan-29&show_icons=true&locale=en&layout=compact" alt="nehal-khan-29" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nehal-Khan-29&show_icons=true&locale=en&layout=compact" alt="Nehal-Khan-29" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=IndexPosition&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/nehal-khan-29)
+[![](https://visitcount.itsvg.in/api?id=IndexPosition&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/Nehal-Khan-29)
