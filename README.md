@@ -82,10 +82,11 @@ I rest only when my code works <hr>
     </tr>
 </table><hr>
 
-https://github-profile-trophy.vercel.app/?username=nehal-khan-29&theme=monokai
-
-
 ## GITHUB STATS :
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehal-khan-29&show_icons=true&locale=en&layout=compact" alt="nehal-khan-29" /></p>
 
+![](https://github-profile-trophy.vercel.app/?username=IndexPosition&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nehal-khan-29&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=MY_BEGINNING&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+[![](https://visitcount.itsvg.in/api?id=IndexPosition&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/MY_BEGINNING)
