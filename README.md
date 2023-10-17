@@ -3,7 +3,7 @@
 ## ABOUT ME :
 Hello!, My name is `Nehal Khan` and I also go by `NK_SHOWDOWN`.
 
-I'm a passionate code enthusiast with a keen interest in `open-source development` and strongly committed to `full-stack programming`. Currently serving as a mentor at Amrita Cognizance Club, I'm always excited to explore new technologies and collaborate on projects that make a positive impact.
+I'm a passionate code enthusiast interested in `open-source development` and strongly committed to `full-stack programming`. Currently serving as a mentor at Amrita Cognizance Club, I'm always excited to explore new technologies and collaborate on projects that make a positive impact.
 
 I rest only when my code works <hr>
 ## LETS CONNECT! :
