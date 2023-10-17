@@ -89,6 +89,6 @@ I rest only when my code works, I code till I finish my game, I play my games ti
 
 ![](https://github-profile-trophy.vercel.app/?username=Nehal-Khan-29&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nehal-Khan-29&show_icons=true&locale=en&layout=compact" alt="Nehal-Khan-29" /></p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-Khan-29&theme=tokyonight)
 
 [![](https://visitcount.itsvg.in/api?id=nehal-khan-29&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/Nehal-Khan-29)
