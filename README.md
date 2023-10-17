@@ -7,7 +7,10 @@ Hello!, My name is `Nehal Khan` and I also go by `NK_SHOWDOWN`.
 
 I'm a passionate code enthusiast interested in `open-source development` and strongly committed to `full-stack programming`. Currently serving as a mentor at Amrita Cognizance Club, I'm always excited to explore new technologies and collaborate on projects that make a positive impact.
 
-I rest only when my code works <hr>
+I rest only when my code works 
+I code till I finish my game
+I play my games till I study
+I study till I sleep <hr>
 ## LETS CONNECT! :
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nehal-Khan-29)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nehal-Khan-29--)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nk29_nehal/)  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Nehal-Khan-29/)  <hr>
 
