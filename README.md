@@ -1,4 +1,5 @@
-[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/f8b117d7-2ad7-4ae2-b08d-48bee1455f8f)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)<hr>
+[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/f8b117d7-2ad7-4ae2-b08d-48bee1455f8f)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)
+<hr>
 
 ## ABOUT ME :
 
@@ -8,7 +9,7 @@ I'm a passionate code enthusiast interested in `open-source development` and str
 
 I rest only when my code works <hr>
 ## LETS CONNECT! :
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nehal-Khan-29/MY_BEGINNING)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nehal-Khan-29--)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nk29_nehal/)  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Nehal-Khan-29/)  <hr>
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nehal-Khan-29)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nehal-Khan-29--)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nk29_nehal/)  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Nehal-Khan-29/)  <hr>
 
 ## TECH STACK :
 
