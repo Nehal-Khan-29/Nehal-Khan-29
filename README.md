@@ -89,4 +89,4 @@ I rest only when my code works <hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nehal-Khan-29&show_icons=true&locale=en&layout=compact" alt="Nehal-Khan-29" /></p>
 
-[![](https://visitcount.itsvg.in/api?id=IndexPosition&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/Nehal-Khan-29)
+[![](https://visitcount.itsvg.in/api?id=nehal-khan-29&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/Nehal-Khan-29)
