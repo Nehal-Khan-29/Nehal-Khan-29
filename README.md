@@ -1,15 +1,15 @@
 [![MY_BEGINNING](https://github.com/Nehal-Khan-29/MY_BEGINNING/assets/128951002/f013e74a-d25d-46e3-8a29-8afa4bfe5c3d)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)
 
-# 👀 About Me:
-- My name is **`Nehal Khan`**, I also go by with **`NK_SHOWDOWN`**.
+# ABOUT ME :
+- Hello!, My name is **`Nehal Khan`**, I also go by with **`NK_SHOWDOWN`**.
 > I'm a passionate code enthusiast with a keen interest in open-source development and a strong commitment to full-stack programming. Currently serving as a mentor at Amrita Cognizance Club, I'm always excited to explore new technologies and collaborate on projects that make a positive impact.
 
 >I rest only when my code work
 
-## Contact With Me:
+## LETS CONNECT! :
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nehal-Khan-29/MY_BEGINNING)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nehal-Khan-29--)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nk29_nehal/)  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Nehal-Khan-29/)  
 
-## 🧠 Tech Stack:
+## TECH STACK :
 
 <table>
     <tr>
@@ -83,7 +83,7 @@
 </table>
 
 
-## 📊 GitHub Stats:
+## GITHUB STATS :
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nehal-khan-29&show_icons=true&locale=en&layout=compact" alt="nehal-khan-29" /></p>
 
