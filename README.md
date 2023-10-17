@@ -1,6 +1,7 @@
-[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/MY_BEGINNING/assets/128951002/f013e74a-d25d-46e3-8a29-8afa4bfe5c3d)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)<hr>
+[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/MY_BEGINNING/assets/128951002/4f2b8e62-33f0-4041-9755-a9684f6f5ff0)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)<hr>
 
 ## ABOUT ME :
+
 Hello!, My name is `Nehal Khan` and I also go by `NK_SHOWDOWN`.
 
 I'm a passionate code enthusiast interested in `open-source development` and strongly committed to `full-stack programming`. Currently serving as a mentor at Amrita Cognizance Club, I'm always excited to explore new technologies and collaborate on projects that make a positive impact.
