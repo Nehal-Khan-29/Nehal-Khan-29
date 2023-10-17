@@ -1,4 +1,4 @@
-[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/MY_BEGINNING/assets/128951002/44a743ac-d56a-4734-9903-c4ad78f1b895)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)<hr>
+[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/cbf2cf6d-1d67-4c36-82e4-4a5cd1fc78cf)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)<hr>
 
 ## ABOUT ME :
 
