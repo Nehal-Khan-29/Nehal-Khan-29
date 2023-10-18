@@ -87,6 +87,6 @@ I rest only when my code works, I code till I finish my game, I play my games ti
 
 ## GITHUB STATS :
 
-![](https://github-profile-trophy.vercel.app/?username=Nehal-Khan-29&theme=monokai)
+![](https://github-profile-trophy.vercel.app/?username=Nehal-Khan-29&theme=monokai) <br><br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-Khan-29&theme=tokyonight)
 [![](https://visitcount.itsvg.in/api?id=nehal-khan-29&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/Nehal-Khan-29)
