@@ -1,9 +1,7 @@
-[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/3c6ce9c0-c7f3-4fc7-aa82-ac84380d25ae)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)
+[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/b78deadd-8072-4c05-bff7-bb6ee781674e)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)
 <hr>
 
 ## ABOUT ME :
-![gif6](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/b78deadd-8072-4c05-bff7-bb6ee781674e)
-
 
 Hello!, My name is `Nehal Khan` and I also go by `NK_SHOWDOWN`.
 
