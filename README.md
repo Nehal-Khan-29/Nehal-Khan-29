@@ -2,6 +2,8 @@
 <hr>
 
 ## ABOUT ME :
+![gif6](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/b78deadd-8072-4c05-bff7-bb6ee781674e)
+
 
 Hello!, My name is `Nehal Khan` and I also go by `NK_SHOWDOWN`.
 
