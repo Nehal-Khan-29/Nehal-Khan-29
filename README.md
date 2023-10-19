@@ -9,9 +9,6 @@ I'm a passionate code enthusiast interested in `open-source development` and str
 
 I rest only when my code works, I code till I finish my game, I play my games till I study, I study till I sleep. <hr>
 
-## LETS CONNECT! :
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nehal-Khan-29)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nehal-Khan-29--)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nk29_nehal/)  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Nehal-Khan-29/)  <hr>
-
 ## TECH STACK :
 
 <table>
@@ -85,8 +82,11 @@ I rest only when my code works, I code till I finish my game, I play my games ti
     </tr>
 </table><hr>
 
+## LETS CONNECT! :
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nehal-Khan-29)  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Nehal-Khan-29--)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nk29_nehal/)  [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Nehal-Khan-29/)  <hr>
+
 ## GITHUB STATS :
 
 ![](https://github-profile-trophy.vercel.app/?username=Nehal-Khan-29&theme=monokai) <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-Khan-29&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nehal-Khan-29&theme=tokyonight) <br><br>
 [![](https://visitcount.itsvg.in/api?id=nehal-khan-29&label=Profile%20Views&color=1&icon=1&pretty=true)](https://github.com/Nehal-Khan-29)
