@@ -11,6 +11,7 @@ I rest only when my code works, I code till I finish my game, I play my games ti
 
 [![Nehal-Khan-29](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/5deb137e-88c6-4288-b087-75f557f649dc)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)
 
+<hr>
 ## TECH STACK :
 
 <table>
