@@ -1,8 +1,6 @@
 [![Nehal-Khan-29](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/b78deadd-8072-4c05-bff7-bb6ee781674e)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)
 <hr>
 
-[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/5deb137e-88c6-4288-b087-75f557f649dc)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)
-
 ## ABOUT ME :
 
 Hello!, My name is `Nehal Khan` and I also go by `NK_SHOWDOWN`.
@@ -10,6 +8,8 @@ Hello!, My name is `Nehal Khan` and I also go by `NK_SHOWDOWN`.
 I'm a passionate code enthusiast interested in `open-source development` and strongly committed to `full-stack programming`. Currently serving as a mentor at Amrita Cognizance Club, I'm always excited to explore new technologies and collaborate on projects that make a positive impact.
 
 I rest only when my code works, I code till I finish my game, I play my games till I study, I study till I sleep. <hr>
+
+[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/5deb137e-88c6-4288-b087-75f557f649dc)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)
 
 ## TECH STACK :
 
