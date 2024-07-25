@@ -52,6 +52,11 @@ I rest only when my code works, I code till I finish my game, I play my games ti
                     src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&amp;logo=mysql&amp;logoColor=white"
                     alt="MySQL" /></a>
         </td>
+        <td>
+            <a href="https://www.mongodb.com/"><img
+                    src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"
+                    alt="MongoDB" /></a>
+        </td>
     </tr>
     <tr>
         <td>HOSTING</td>
