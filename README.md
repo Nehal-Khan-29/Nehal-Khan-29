@@ -1,4 +1,4 @@
-[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/b78deadd-8072-4c05-bff7-bb6ee781674e)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)
+[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/b78deadd-8072-4c05-bff7-bb6ee781674e)](https://nehalkhan.in/)
 <hr>
 
 ## ABOUT ME :
@@ -9,7 +9,7 @@ I'm a passionate code enthusiast interested in `open-source development` and str
 
 I rest only when my code works, I code till I finish my game, I play my games till I study, I study till I sleep. <hr>
 
-[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/5deb137e-88c6-4288-b087-75f557f649dc)](https://nehal-khan-29.github.io/NEHAL_KHAN-Portfolio/)
+[![Nehal-Khan-29](https://github.com/Nehal-Khan-29/Nehal-Khan-29/assets/128951002/5deb137e-88c6-4288-b087-75f557f649dc)](https://nehalkhan.in/)
 
 <hr>
 ## TECH STACK :
