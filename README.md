@@ -76,7 +76,7 @@ I rest only when my code works, I code till I finish my game, I play my games ti
         </td>
     </tr>
     <tr>
-        <td>ML/DL</td>
+        <td>Tools & Frameworks</td>
         <td>
             <a href="https://pandas.pydata.org/"><img
                     src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&amp;logo=pandas&amp;logoColor=white"
@@ -84,6 +84,15 @@ I rest only when my code works, I code till I finish my game, I play my games ti
             <a href="https://numpy.org/"><img
                     src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&amp;logo=numpy&amp;logoColor=white"
                     alt="NumPy" /></a>
+            <a href="https://www.tensorflow.org/"><img 
+                    src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" 
+                    alt="TensorFlow" /></a>
+            <a href="https://opencv.org/"><img 
+                    src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" 
+                    alt="OpenCV" /></a>
+            <a href="https://flask.palletsprojects.com/"><img 
+                    src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" 
+                    alt="Flask" /></a>
         </td>
     </tr>
 </table><hr>
